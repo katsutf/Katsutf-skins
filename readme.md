@@ -1,3 +1,7 @@
+# - dziadek Katsutf purple.
+![skin image](https://osu.ppy.sh/ss/18754435/30eb)
+### [Download Skin](https://www.mediafire.com/file/6fksewilrcy9z6d/-+dziadek+Katsutf+purple.osk/file)
+
 # Vaxei - Katsutf ver.
 ![skin image](https://osu.ppy.sh/ss/18754435/30eb)
 ### [Download Skin](https://mega.nz/file/0l8gnZZZ#xPuCNSrmRe1DrYE_siR2OepJuEa4FvjKY2lSJMmvQcg)

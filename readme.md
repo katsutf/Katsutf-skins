@@ -1,3 +1,7 @@
+# - Katsutf DT 1.
+![skin image](https://osu.ppy.sh/ss/18754435/30eb)
+### [Download Skin](http://www.mediafire.com/folder/6fksewilrcy9z6d,zkapj7rq5jtj7ja/shared)
+
 # - dziadek Katsutf purple.
 ![skin image](https://osu.ppy.sh/ss/18754435/30eb)
 ### [Download Skin](https://www.mediafire.com/file/6fksewilrcy9z6d/-+dziadek+Katsutf+purple.osk/file)
